@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "qFbCUTFwdrw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klose\\OneDrive\\Desktop\\younetTools\\YountoOs v2\\YountoOs v2\\YountoOs v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klose\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20250612065140\\cosmos.build.0.1.0-localbuild20250612065140.nupkg.sha512",
+    "C:\\Users\\klose\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20250612065221\\cosmos.common.0.1.0-localbuild20250612065221.nupkg.sha512",
+    "C:\\Users\\klose\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20250612065221\\cosmos.core.0.1.0-localbuild20250612065221.nupkg.sha512",
+    "C:\\Users\\klose\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20250612065221\\cosmos.debug.kernel.0.1.0-localbuild20250612065221.nupkg.sha512",
+    "C:\\Users\\klose\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20250612065221\\cosmos.hal2.0.1.0-localbuild20250612065221.nupkg.sha512",
+    "C:\\Users\\klose\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20250612065221\\cosmos.plugs.0.1.0-localbuild20250612065221.nupkg.sha512",
+    "C:\\Users\\klose\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20250612065221\\cosmos.system2.0.1.0-localbuild20250612065221.nupkg.sha512",
+    "C:\\Users\\klose\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20250612065221\\il2cpu.api.0.1.0-localbuild20250612065221.nupkg.sha512"
+  ],
+  "logs": []
+}
