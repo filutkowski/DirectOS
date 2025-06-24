@@ -1,21 +1,24 @@
-MIT License
+ALNTO SOFTWARE LICENSE AGREEMENT (EULA)
+Applies to software: DirectOS (formerly YountoOS)
+Based on: Cosmos OS (C# Edition) and other open-source libraries
+Effective date: 2025
+© 2023–2025 AGGAS (pseudonym of the author)
+1. General Information
+The DirectOS project was developed independently by an individual operating under the alias AGGAS. This alias serves as an identifier and does not represent a registered company or legal entity.
+DirectOS uses Cosmos OS (C# Edition) as its foundation and may include other open-source libraries subject to their respective licenses. The end user is responsible for ensuring compliance with any such third-party license terms.
+2. User Rights (PERMITTED):
+- install and run the Software on personal or organizational devices,
+- compile the source code for personal or internal private use,
+- modify the source code for non-public internal use only,
+- share only compiled executable builds of the Software — without any source code.
 
-Copyright (c) 2025 filutkowski
+3. User Restrictions (PROHIBITED):
+- publish, share, or distribute the source code in any form (original or modified),
+- reuse parts of DirectOS in other public or open-source projects without written permission,
+- resell, sublicense, or claim authorship of the Software,
+- reverse-engineer or decompile builds distributed by others.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+4. Intellectual Property
+All copyrights and intellectual property rights for DirectOS and the ALNTO license remain solely with the individual author known as AGGAS.
+5. No Warranty
+The Software is provided “as is” with no warranties of any kind. The author shall not be held liable for any damages resulting from the use of the Software.
