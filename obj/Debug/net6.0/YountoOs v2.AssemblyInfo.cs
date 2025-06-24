@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Use VMware Player or Workstation to deploy and debug.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45356ca81c7265a02fda44a1e1dd7ddcbba56825")]
 [assembly: System.Reflection.AssemblyProductAttribute("YountoOs v2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YountoOs v2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
